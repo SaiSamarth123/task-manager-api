@@ -2,6 +2,10 @@
 
 A simple CRUD API built with FastAPI.
 
+## Live Demo
+
+https://task-manager-api-production-b6c2.up.railway.app/
+
 ## Endpoints
 
 - `GET /` → Welcome message
